@@ -1,4 +1,4 @@
-I (Haibo Liu) have fixed the bugs in the DoubletFinder package due to incompatibility with Seurat v5.
+I (Haibo Liu) have fixed the bugs in the DoubletFinder package due to incompatibility with Seurat v5 on Jan 31, 2025.
 
 
 
